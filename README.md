@@ -7,9 +7,9 @@
 
 You can download the PDF and Epub version of this repository from the latest run on the [actions tab](https://github.com/sudheerj/angular-interview-questions/actions).
 
+ <details> <summary>Click to expand!</summary>
 
-
-### Table of Contents     <details> <summary>Click to expand!</summary>
+### Table of Contents    
 
 | No. | Questions |
 |---- | ---------
